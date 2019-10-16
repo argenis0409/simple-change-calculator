@@ -1,4 +1,3 @@
-// Write your JavaScript here
 function calculateChange(amountReceived, amountDue) {
     return amountReceived - amountDue;
 

@@ -1,8 +1,22 @@
-change calculator.
+# Change Calculator
 
-To get the project started you can install the project files into your command line or code editor.
-Once you do that go ahead and type npm start, this command will run the project locally.
+## General info
 
-Go ahead and type Amount Due and Amount Received, once you click calculate you will see the exact change you have to give back.
+Calculate the exact change with my change calculator
 
-note: An alert will pop if you click the calculate button and the input bars are empty.
+## Technologies
+
+* HTML
+* Bootstrap
+* Javascript
+* Jquery
+* Express
+* Mocha
+
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ npm install 
+$ npm start
+```
